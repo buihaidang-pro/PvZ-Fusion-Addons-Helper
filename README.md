@@ -7,7 +7,7 @@ PvZ Fusion Helper is a **MelonLoader Mod Suite** for Plants vs. Zombies Fusion (
 ## Installation
 
 1. Install [MelonLoader](https://melonwiki.xyz/#/modders/quickstart) for PvZ Fusion.
-2. [Download](https://discord.gg/DPAC5ZVJ8T) the latest mod DLLs from our Discord server **or** build them yourself (see [Building from Source](#building-from-source) below).
+2. [Download](https://github.com/buihaidang-pro/PvZ-Fusion-Addons-Helper/releases/tag/v1.1.0) the latest mod DLLs from the GitHub Releases page **or** build them yourself (see [Building from Source](#building-from-source) below).
 3. Copy the `.dll` files you want into your game's `Mods` folder:
    ```
    <Game Directory>\Mods\
