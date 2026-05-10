@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
@@ -12,7 +12,7 @@
 		<AssemblyName>Utilities</AssemblyName>
 		<LangVersion>latest</LangVersion>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<GamePath>D:\Games\PvZ.Fusion.3.6.1.Multi-lang.Beta.Hotfix.1.by.Blooms\Game Files</GamePath>
+		<GamePath>D:\Games\Game Files</GamePath>
 		<Platforms>AnyCPU;x64</Platforms>
 	</PropertyGroup>
 
